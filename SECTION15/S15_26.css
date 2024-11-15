@@ -1,0 +1,12 @@
+.box {
+  width: 500px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: conic-gradient(
+    red 170deg,
+    blue 170deg,
+    blue 200deg,
+    yellow 200deg,
+    yellow 360deg
+  );
+}
